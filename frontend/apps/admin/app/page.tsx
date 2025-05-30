@@ -1,5 +1,5 @@
 const TopPage = () => {
-  return <div>Web Top Page</div>;
+  return <div>Admin Top Page</div>;
 };
 
 export default TopPage;
