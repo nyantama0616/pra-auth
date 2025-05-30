@@ -1,4 +1,4 @@
-resource "vercel_project" "pra-auth-web" {
+resource "vercel_project" "pra_auth_web" {
   name      = "pra-auth-web"
   framework = "nextjs"
 
